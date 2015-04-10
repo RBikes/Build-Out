@@ -55,3 +55,6 @@ doc/build/
 # Backup files
 *~
 *.swp
+
+# Odoo recipe
+anybox.recipe.odoo
