@@ -58,3 +58,6 @@ doc/build/
 
 # Odoo recipe
 anybox.recipe.odoo
+etc
+upgrade.py
+*.run
